@@ -21,7 +21,7 @@ The Student Result Management System (SRMS) is a robust and scalable solution de
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Ineshrao/Student-Result-Managemnet-System.git`
+1. Clone the repository: `git clone https://github.com/Ineshrao/Student-Result-Management-System.git`
 2. Set up the XAMPP server and start Apache and MySQL modules.
 3. Import the database from the 'sql file' folder into the MySQL database.
 4. Configure the database connection in the `srms/includes/config.php` file.
